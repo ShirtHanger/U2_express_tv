@@ -5,6 +5,7 @@ const animes = [
         medium: "Animated",
         episodes: 190,
         isFinished: true,
+        image: 'https://upload.wikimedia.org/wikipedia/en/a/aa/JoJo_Part_1_Phantom_Blood.jpg',
     },
     {
         name: "Frieren: Beyond Journey's End",
@@ -12,6 +13,7 @@ const animes = [
         medium: "Animated",
         episodes: 28,
         isFinished: false,
+        image: 'https://m.media-amazon.com/images/I/816AbVQc+0L.jpg', 
     },
     {
         name: 'Dragon Ball Z',
@@ -19,6 +21,7 @@ const animes = [
         medium: "Animated",
         episodes: 372,
         isFinished: true,
+        image: 'https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781569319307/dragon-ball-z-vol-1-9781569319307_hr.jpg',
     },
 ]
 

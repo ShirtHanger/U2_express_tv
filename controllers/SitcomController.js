@@ -5,6 +5,7 @@ const sitcoms = [
         medium: "Live-Action",
         episodes: 21,
         isFinished: true,
+        image: 'https://m.media-amazon.com/images/M/MV5BM2U1M2QxZDYtMzgyYS00OWQ5LWIyNGUtMmQ1MGQ2NTU2NzNhXkEyXkFqcGc@._V1_.jpg',
     },
     {
         name: 'Fresh Prince of Bel-Air',
@@ -12,6 +13,7 @@ const sitcoms = [
         medium: "Live-Action",
         episodes: 21,
         isFinished: true,
+        image: 'https://m.media-amazon.com/images/M/MV5BYzhlMDVmNTgtZjkwOS00NGYwLTllMWEtYjY2OWNkMDliMTAyXkEyXkFqcGc@._V1_.jpg', 
     },
     {
         name: 'My wife and Kids',
@@ -19,6 +21,7 @@ const sitcoms = [
         medium: "Live-Action",
         episodes: 21,
         isFinished: true,
+        image: 'https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p184700_b_v10_ao.jpg',
     },
 ]
 
